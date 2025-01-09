@@ -1,0 +1,34 @@
+{
+  "name": "hostelworld_powertools",
+  "version": "1.0.0",
+  "description": "This is a challenge using Cypress framework and JS for test automated.",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitlab.com/rafael.git"
+  },
+  "keywords": [
+    "test",
+    "automation",
+    "javascript",
+    "cypress",
+    "qa",
+    "engineer"
+  ],
+  "author": "Rafael C. Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitlab.com/rafael/issues"
+  },
+  "homepage": "https://github.com/gitlab.com/rafael#readme",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0"
+  }
+}

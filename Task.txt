@@ -1,0 +1,11 @@
+Senior QA Technical Assignment
+Please, take the time to develop and set up a very small automation suite having this page as a reference: https://practicesoftwaretesting.com/
+
+API: https://api.practicesoftwaretesting.com/users/me
+     https://api.practicesoftwaretesting.com/products?between=price,1,100&page=1
+     https://api.practicesoftwaretesting.com/api/documentation
+
+1. Define a small suite of tests (frontend and/or backend) not more than 10 scenarios.
+2. Using Typescript/Python/Java and Playwright/Selenium implement those tests. Feel free to mention a few more scenarios.
+3. Implement and document a reliable way for us to run your project.
+4. Please, push your code into a public repo for us to see.

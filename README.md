@@ -41,13 +41,13 @@ or
 ### Download the project/Clone the current repository:
 __Use the command below:__
 > ```bash
->  git clone 'URL' 
+>  git clone git@github.com:rcardosopereira/practicesoftwaretesting.git 
 > ```
 
 Check if your current version is the same or if you have a more updated version.
-__The version of this project is:__ 
--__*NPM Version 10.8.3*__
--__*NODE Version v22.12.0*__
+__The version of this project is:__  <br>
+-__*NPM Version 10.8.3*__ <br>
+-__*NODE Version v22.12.0*__ <br>
 
 Download the zip file and then unzip the file to a folder.
 Inside the "\Cypress\practicesoftwaretesting" folder, run the following commands below.
